@@ -13,7 +13,7 @@ public class anime extends AnimeFrame {
 	
     //Name of user
     static String listName;
-	  //Title of anime
+    //Title of anime
     static String description;
     //What's the rating
     static String rating;
